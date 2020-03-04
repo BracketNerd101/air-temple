@@ -9,7 +9,21 @@ body {
     margin-bottom: 10rem;
     margin-top: 5rem;
   
-    background-image: url("../img/ace-webb.png");
+    background-image: url("../img/ace-pw_maze_white_@2X.png");
+   
+
+}
+
+.folio-hero p {
+
+    font-size: 2.4rem;
+   
+
+}
+
+ .folio-text {
+
+    font-size: 4rem;
    
 
 }
