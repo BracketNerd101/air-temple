@@ -1,0 +1,520 @@
+body {
+  margin: 0;
+  min-height: 120px; }
+
+.jumbotron .jumbotron-fluid {
+  margin-bottom: auto;
+  background-color: none !important; }
+  .jumbotron .jumbotron-fluid #flb_bg {
+    background-color: #0091cc !important; }
+  .jumbotron .jumbotron-fluid .label_proj {
+    text-decoration: none; }
+  .jumbotron .jumbotron-fluid h3 {
+    text-decoration: none !important; }
+  .jumbotron .jumbotron-fluid a:hover {
+    text-decoration: none !important; }
+
+.nav_logo {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 3.4rem;
+  color: limegreen; }
+
+.thumbnail_tile {
+  text-decoration: none; }
+  .thumbnail_tile a:hover {
+    text-decoration: none; }
+  .thumbnail_tile h3 {
+    text-decoration: none; }
+
+#thumbnail_tile {
+  text-decoration: none; }
+
+.head_turn .main_hero_intro_img {
+  background-image: url("../img/mobile_small_custom.png");
+  background-size: cover;
+  height: 9rem;
+  width: 100%;
+  background-color: none; }
+.head_turn .motion_hero_intro_img {
+  background-image: url("../img/camera_close_up.jpg");
+  background-size: cover;
+  height: 9rem;
+  width: 100%; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .head_turn .motion_hero_intro_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 9rem;
+      width: 100%; } }
+.head_turn .world_hero_intro_img {
+  background-image: url("../img/bank_iphone_sign_up.jpg");
+  background-size: cover;
+  height: 9rem;
+  width: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .head_turn .world_hero_intro_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 9rem;
+      width: 100%; } }
+.head_turn .compare_port_img {
+  background-image: url("../img/cqt_ipad_2.jpg");
+  background-size: cover;
+  height: 20rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .head_turn .compare_port_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 18rem;
+      width: 100%; } }
+.head_turn .fis_port_img {
+  background-image: url("../img/fis_close_global_search.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .head_turn .fis_port_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 18rem;
+      width: 100%; } }
+.head_turn .provider_img {
+  background-image: url("../img/Providers-flat.png");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+.head_turn .system_img {
+  background-image: url("../img/kit_step_bars.png");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+.head_turn .run_img {
+  background-image: url("../img/run-mobile-6s.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  text-decoration: none;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .head_turn .run_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 19rem;
+      width: 100%; } }
+.head_turn .photo_img {
+  background-image: url("../img/BEACH-FAMILY005.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  background-position-y: no; }
+.head_turn .mwe_img {
+  background-image: url("../img/MWE-FL-BLUE-Perspective-3.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .head_turn .mwe_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 16rem;
+      width: 100%; } }
+.head_turn .why_blue_img {
+  background-image: url("../img/fl_why_blue_2.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .head_turn .why_blue_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 16rem;
+      width: 100%; } }
+.head_turn .art_img {
+  background-image: url("../img/paint_display.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .head_turn .art_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 20rem;
+      width: 100%; } }
+
+.folio_top {
+  margin-top: auto;
+  margin-bottom: auto; }
+
+.flex_folio {
+  display: flex; }
+
+.client_flex {
+  margin-top: 5rem; }
+
+.client_title_font {
+  font-size: 1.3rem;
+  font-family: 'Lato', sans-serif; }
+
+.img_clients {
+  vertical-align: middle;
+  display: inline-block;
+  width: 8.1rem; }
+
+.fis_size_logo {
+  vertical-align: middle;
+  display: inline-block;
+  width: 5rem;
+  display: inline-block;
+  align-items: center; }
+
+.sales_intro_hero {
+  background-size: cover;
+  background-color: #ffffff;
+  height: inherit;
+  margin-bottom: auto; }
+  .sales_intro_hero .fis_size_logo {
+    vertical-align: middle;
+    display: inline-block;
+    width: 8rem;
+    display: inline-block;
+    align-items: center; }
+  .sales_intro_hero .img_clients {
+    vertical-align: middle;
+    display: inline-block;
+    width: 6rem;
+    display: inline-block;
+    align-items: center; }
+    .sales_intro_hero .img_clients #florida_style {
+      margin-top: 5rem !important; }
+  .sales_intro_hero .hello_hero_text {
+    padding-top: 60vh;
+    font-size: 5rem;
+    color: limegreen;
+    font-family: 'Montserrat Alternates', sans-serif; }
+    @media (min-width: 370px) {
+      .sales_intro_hero .hello_hero_text {
+        font-size: 5rem; } }
+    @media (min-width: 376px) {
+      .sales_intro_hero .hello_hero_text {
+        font-size: 5rem; } }
+    @media (min-width: 476px) {
+      .sales_intro_hero .hello_hero_text {
+        font-size: 3rem; } }
+    @media (min-width: 768px) {
+      .sales_intro_hero .hello_hero_text {
+        font-size: 4rem; } }
+    @media (min-width: 992px) {
+      .sales_intro_hero .hello_hero_text {
+        font-size: 4rem; } }
+    @media (min-width: 1200px) {
+      .sales_intro_hero .hello_hero_text {
+        font-size: 4rem; } }
+  .sales_intro_hero .display_margin {
+    margin-bottom: 1rem; }
+
+.hero_intro_img {
+  background-size: cover;
+  background-color: #ffffff;
+  height: 96vh;
+  width: auto;
+  margin-bottom: auto;
+  display: flex;
+  align-items: center;
+  text-align: center; }
+
+.hero_intro_img {
+  background-size: cover;
+  background-image: url("../img/paint_display.jpg");
+  height: 96vh;
+  width: auto;
+  margin-bottom: auto;
+  display: flex;
+  align-items: center;
+  text-align: center; }
+
+.main_hero_intro_img {
+  background-image: url("../img/mobile_small_custom.png");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  background-color: none; }
+
+.folio_label {
+  opacity: 1;
+  transition: 0.4s;
+  text-decoration: none; }
+
+.folio_label:hover {
+  opacity: 0.8;
+  transition: 0.4s;
+  text-decoration: none; }
+
+.motion_hero_intro_img {
+  background-image: url("../img/camera_close_up.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .motion_hero_intro_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 18rem;
+      width: 100%; } }
+
+.world_hero_intro_img {
+  background-image: url("../img/bank_iphone_sign_up.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .world_hero_intro_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 18rem;
+      width: 100%; } }
+
+.compare_port_img {
+  background-image: url("../img/cqt_ipad_2.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .compare_port_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 18rem;
+      width: 100%; } }
+
+.tc_port_img {
+  background-image: url("../img/tc_desktop.png");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .tc_port_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 18rem;
+      width: 100%; } }
+
+.fis_port_img {
+  background-image: url("../img/fis_close_global_search.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .fis_port_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 18rem;
+      width: 100%; } }
+
+.provider_img {
+  background-image: url("../img/Providers-flat.png");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.system_img {
+  background-image: url("../img/kit_step_bars.png");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.run_img {
+  background-image: url("../img/run-mobile-6s.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  text-decoration: none;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .run_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 19rem;
+      width: 100%; } }
+
+.photo_img {
+  background-image: url("../img/BEACH-FAMILY005.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+  background-position-y: no; }
+
+.mwe_img {
+  background-image: url("../img/MWE-FL-BLUE-Perspective-3.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .mwe_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 16rem;
+      width: 100%; } }
+
+.why_blue_img {
+  background-image: url("../img/fl_why_blue_2.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .why_blue_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 16rem;
+      width: 100%; } }
+
+.art_img {
+  background-image: url("../img/paint_display.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .art_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 20rem;
+      width: 100%; } }
+
+.portfolio_frame {
+  height: 35rem;
+  width: 100%; }
+
+.portfolio_frame_secondary {
+  height: 35rem;
+  width: 100%; }
+
+.large_sep {
+  margin-top: 8rem; }
+
+.xlarge_sep {
+  margin-top: 12rem; }
+
+.xlarge_sep_bottom {
+  margin-bottom: 12rem; }
+
+.call_out_text {
+  font-family: 'Lato', sans-serif; }
+
+.large_sep_bottom {
+  margin-bottom: 8rem; }
+
+.small_sep {
+  margin-top: 3rem; }
+
+.small_sep_bottom {
+  margin-bottom: 3rem; }
+
+.small_left {
+  margin-left: 3rem; }
+
+.small_right {
+  margin-right: 3rem; }
+
+.large_left {
+  padding-left: 8rem; }
+
+.large_right {
+  padding-right: 8rem; }
+
+.clients_text {
+  font-family: 'Lato', sans-serif;
+  margin-bottom: 1rem; }
+
+.label_proj {
+  opacity: 0;
+  transition: 0.3s;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 3.0rem;
+  text-shadow: #a0a0a0 3px 2px;
+  text-decoration: none;
+  text-decoration: none; }
+  .label_proj h3 {
+    text-decoration: none; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .label_proj {
+      font-size: 1.9rem; } }
+
+.label_proj:hover {
+  opacity: 1;
+  transition: 0.3s;
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-size: 3.0rem;
+  text-shadow: #a0a0a0 3px 2px;
+  text-decoration: none; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .label_proj:hover {
+      font-size: 1.9rem; } }
+
+.about_hero {
+  background-image: url("../img/about_arthur_img.JPG");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.proj_role {
+  font-family: 'Lato', sans-serif;
+  color: #767676; }
+
+/*# sourceMappingURL=main_style.css.map */

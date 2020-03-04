@@ -1,0 +1,155 @@
+body {
+  scroll-behavior: smooth; }
+
+.FLB {
+  color: #0091cc; }
+
+.RUN {
+  color: #f53269; }
+
+.FIS {
+  color: #83ba22; }
+
+.WB {
+  color: #dc3545; }
+
+.Motion {
+  color: #000000; }
+
+.intro_header_about_style {
+  font-family: 'Montserrat Alternates', sans-serif; }
+
+.compare_hero {
+  background-image: url("../img/compare_banner.jpg");
+  background-size: cover;
+  height: 40rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.bill_hero {
+  background-image: url("../img/fb_Review_payment.jpg");
+  background-size: cover;
+  height: 40rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.bank_hero {
+  background-image: url("../img/bank_mobile_white.png");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.why_blue_hero {
+  background-image: url("../img/fl_why_blue_2.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.fis_hero {
+  background-image: url("../img/fis_forum.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.run_hero {
+  background-image: url("../img/run-mobile-6s.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.member_hero {
+  background-image: url("../img/MWE opt macbook-air-at-coffee.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.motion_hero {
+  background-image: url("../img/camera_close_up.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.photo_hero {
+  background-image: url("../img/BEACH-FAMILY005.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.about_hero {
+  background-image: url("../img/about_arthur_img.JPG");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.art_hero {
+  background-image: url("../img/paint_display.jpg");
+  background-size: cover;
+  height: 35rem;
+  width: 100%;
+  margin-bottom: auto; }
+
+.des_system_img {
+  background-image: url("../img/");
+  background-size: cover;
+  height: 35rem;
+  width: auto; }
+  @media (min-width: 376px) and (max-width: 476px) {
+    .des_system_img {
+      background-size: contain;
+      background-repeat-x: no-repeat;
+      background-repeat-y: no-repeat;
+      background-position-y: no;
+      height: 18rem;
+      width: 100%; } }
+
+.profile-img {
+  overflow: hidden;
+  background-image: url("../img/about_arthur_img.JPG");
+  background-size: cover;
+  height: 30rem;
+  width: 100%; }
+
+.profile-img-2 {
+  overflow: hidden;
+  background-image: url("../img/ace_yo.PNG");
+  background-size: cover;
+  height: 30rem;
+  width: 100%; }
+
+.profile-img-3 {
+  overflow: hidden;
+  background-image: url("../img/ace_frog.jpg");
+  background-size: cover;
+  height: 30rem;
+  width: 100%; }
+
+.profile-img-4 {
+  overflow: hidden;
+  background-image: url("../img/pdx_snow.jpg");
+  background-size: cover;
+  height: 30rem;
+  width: 100%; }
+
+#bg {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 100%;
+  z-index: -3;
+  background-size: cover; }
+
+img {
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  -ms-interpolation-mode: bicubic; }
+
+/*# sourceMappingURL=project.css.map */

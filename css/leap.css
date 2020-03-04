@@ -1,0 +1,74 @@
+/* Coolors Exported Palette - coolors.co/61ff7e-5eeb5b-a2dce4-004fff-2ec4b6 */
+/* HSL */
+/* RGB */
+body {
+  min-height: 1200px; }
+
+.mb-5 {
+  margin-bottom: 0px; }
+
+.logo_alt {
+  color: linear-gradient(to right, #61ff7e 50%, #5eeb5b 50%, #a2dce4 50%, #004fff 50%, #2ec4b6 50%); }
+
+.wow {
+  visibility: hidden; }
+
+.call_out_ace {
+  font-family: 'Lato', sans-serif; }
+
+.mosaic_intro {
+  background-size: contain;
+  background: url("../img/ace_proj_mosaic_v3@2x.png") center/cover no-repeat;
+  height: 100vh;
+  width: 100%; }
+
+.green_project {
+  background-color: limegreen; }
+
+.port_1 {
+  height: 25rem;
+  width: auto;
+  background-size: cover;
+  background-image: url("../img/mobile_small_custom.png"); }
+
+.port_2 {
+  height: 25rem;
+  width: auto;
+  background-size: cover;
+  background-image: url("../img/cqt_ipad_2.jpg"); }
+
+.port_3 {
+  height: 25rem;
+  width: auto;
+  background-size: cover;
+  background-image: url("../img/kit_step_bars.png"); }
+
+.port_4 {
+  height: 25rem;
+  width: auto;
+  background-size: cover;
+  background-image: url("../img/tc_desktop.png"); }
+
+.port_5 {
+  height: 25rem;
+  width: auto;
+  background-size: cover;
+  background-image: url("../img/fis_close_global_search.jpg"); }
+
+.port_6 {
+  height: 25rem;
+  width: auto;
+  background-size: cover;
+  background-image: url("../img/fl_why_blue_2.jpg"); }
+
+.port_kit {
+  height: 25rem;
+  width: auto;
+  background-size: cover;
+  background-image: url("../img/glados_desk2.jpg"); }
+
+.proj_notes {
+  height: 25rem;
+  width: auto; }
+
+/*# sourceMappingURL=leap.css.map */

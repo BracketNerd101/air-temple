@@ -1,0 +1,28 @@
+body {
+
+    background-color: #fff;
+}
+
+.folio-hero {
+
+    height: 50rem;
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+  
+    /* background-image: url("../img/ace-pw_maze_white_@2X.png"); */
+    background-image: url("../img/ace-webb.png");
+    /* background-image: url("../img/ace-seigaiha.png"); */
+
+}
+
+.jumbotron {
+
+    background-color: transparent;
+}
+
+.jumbotron-fluid {
+
+    background-color: transparent;
+}
+
+
