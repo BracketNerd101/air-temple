@@ -1,0 +1,26 @@
+body {
+
+    background-color: #fff;
+}
+
+.folio-hero {
+
+    height: 50rem;
+    margin-bottom: 10rem;
+    margin-top: 5rem;
+
+    background: linear-gradient(90deg, rgba(247, 247, 247, 0.632) 1px, transparent 90%) center, linear-gradient(#f2f2f2 20px, transparent 1%) center, rgba(230, 230, 230, 0.721);
+    background-size: 22px 22px;
+}
+
+.jumbotron {
+
+    background-color: transparent;
+}
+
+.jumbotron-fluid {
+
+    background-color: transparent;
+}
+
+
