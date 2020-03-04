@@ -8,9 +8,11 @@ body {
     height: 50rem;
     margin-bottom: 10rem;
     margin-top: 5rem;
+  
+    /* background-image: url("../img/ace-pw_maze_white_@2X.png"); */
+    background-image: url("../img/ace-webb.png");
+    /* background-image: url("../img/ace-seigaiha.png"); */
 
-    background: linear-gradient(90deg, rgba(247, 247, 247, 0.632) 1px, transparent 90%) center, linear-gradient(#f2f2f2 20px, transparent 1%) center, rgba(230, 230, 230, 0.721);
-    background-size: 22px 22px;
 }
 
 .jumbotron {
