@@ -29,7 +29,7 @@ body {
 .compare_hero {
   background-image: url("../img/compare_banner.jpg");
   background-size: cover;
-  height: 40rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -37,7 +37,7 @@ body {
 .bill_hero {
   background-image: url("../img/aaa_layers.png");
   background-size: cover;
-  height: 40rem;
+  height: 50rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -45,7 +45,7 @@ body {
 .bank_hero {
   background-image: url("../img/bank_mobile_white.png");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -61,7 +61,7 @@ body {
 .kit_hero {
   background-image: url("../img/glados_desk2.jpg");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -69,7 +69,7 @@ body {
 .fis_hero {
   background-image: url("../img/fis_forum.jpg");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -77,7 +77,7 @@ body {
 .run_hero {
   background-image: url("../img/run-mobile-6s.jpg");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -85,7 +85,7 @@ body {
 .member_hero {
   background-image: url("../img/MWE opt macbook-air-at-coffee.jpg");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -93,7 +93,7 @@ body {
 .motion_hero {
   background-image: url("../img/camera_close_up.jpg");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -101,7 +101,7 @@ body {
 .photo_hero {
   background-image: url("../img/BEACH-FAMILY005.jpg");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -109,7 +109,7 @@ body {
 .about_hero {
   background-image: url("../img/about_arthur_img.JPG");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -117,7 +117,7 @@ body {
 .toyota_hero {
   background-image: url("../img/tc_tablet_empty.png");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -125,7 +125,7 @@ body {
 .art_hero {
   background-image: url("../img/paint_display.jpg");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: 100%;
   margin-bottom: auto;
 }
@@ -133,7 +133,7 @@ body {
 .des_system_hero {
   background-image: url("../img/sprinke.jpg");
   background-size: cover;
-  height: 35rem;
+  height: 55rem;
   width: auto;
 }
 @media (min-width: 376px) and (max-width: 476px) {
@@ -151,7 +151,7 @@ body {
   overflow: hidden;
   background-image: url("../img/about_arthur_img.JPG");
   background-size: cover;
-  height: 30rem;
+  height: 40rem;
   width: 100%;
 }
 
@@ -159,7 +159,7 @@ body {
   overflow: hidden;
   background-image: url("../img/ace_yo.PNG");
   background-size: cover;
-  height: 30rem;
+  height: 40rem;
   width: 100%;
 }
 
@@ -167,7 +167,7 @@ body {
   overflow: hidden;
   background-image: url("../img/ace_frog.jpg");
   background-size: cover;
-  height: 30rem;
+  height: 40rem;
   width: 100%;
 }
 
@@ -175,7 +175,7 @@ body {
   overflow: hidden;
   background-image: url("../img/pdx_snow.jpg");
   background-size: cover;
-  height: 30rem;
+  height: 40rem;
   width: 100%;
 }
 
