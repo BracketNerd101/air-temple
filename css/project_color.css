@@ -186,6 +186,23 @@ body {
   width: 100%;
 }
 
+
+.profile-img-about1 {
+  overflow: hidden;
+  background-image: url("../img/ace_frog.jpg");
+  background-size: cover;
+  height: 40rem;
+  width: 100%;
+}
+
+.profile-img-about2 {
+  overflow: hidden;
+  background-image: url("../img/pdx_snow.jpg");
+  background-size: cover;
+  height: 40rem;
+  width: 100%;
+}
+
 #bg {
   margin-left: auto;
   margin-right: auto;
