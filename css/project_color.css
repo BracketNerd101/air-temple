@@ -131,6 +131,13 @@ body {
 }
 
 .des_system_hero {
+  background-image: url("../img/art-direction.jpg");
+  background-size: cover;
+  height: 55rem;
+  width: auto;
+}
+
+.des_kit_hero {
   background-image: url("../img/sprinke.jpg");
   background-size: cover;
   height: 55rem;
