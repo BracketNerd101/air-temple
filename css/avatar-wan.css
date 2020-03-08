@@ -9,33 +9,78 @@ body {
     margin-bottom: 10rem;
     margin-top: 5rem;
   
-    background-image: url("../img/ace-pw_maze_white_@2X.png");
-   
+}
+
+
+.intro_text_style {
+  
+    font-family: 'Montserrat Alternates', sans-serif; 
 
 }
 
 .folio-hero p {
 
-    font-size: 2.4rem;
-   
+    font-size: 2.4rem;   
 
 }
 
  .folio-text {
 
     font-size: 4rem;
-   
-
 }
 
 .jumbotron {
-
+    
     background-color: transparent;
 }
 
 .jumbotron-fluid {
-
     background-color: transparent;
 }
 
+
+ /* .hero-card-head {
+    border-top: solid 14px #7FFF00;
+} */
+
+
+/* Styled backgrounds */
+
+
+.ace-gradient {
+
+    background: #00F260;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 1.2rem;
+    width: 30%;
+
+}
+
+.intro-card-text {
+
+    font-size: 1.4rem;
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.intro-card-title {
+
+    font-size: 2.4rem;
+      font-family: 'Montserrat Alternates', sans-serif; 
+}
+
+
+.home-sep-top {
+
+    margin-top: 3rem;
+
+
+}
+
+.home-sep-bottom {
+
+    margin-bottom: 5rem;
+
+
+}
 
