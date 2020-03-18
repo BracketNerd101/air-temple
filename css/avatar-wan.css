@@ -115,3 +115,11 @@ body {
 
 }
 
+/* CSS RESET FOR PATTERNS */
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 1.5rem 2rem;
+    font-size: 1.9rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
