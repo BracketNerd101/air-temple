@@ -29,9 +29,14 @@ body {
     font-size: 4rem;
 }
 
+
 .jumbotron {
     
     background-color: transparent;
+}
+
+.jumbotron .container {
+    max-width: 85%;
 }
 
 .jumbotron-fluid {
